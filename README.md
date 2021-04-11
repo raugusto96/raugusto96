@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="300" src="rodrigo.png">
+    <img align="center" width="500" src="rodrigo.png">
   </a>
  <img src="https://media.giphy.com/media/KGfHHJgI6iVVeEZFHV/giphy.gif" width="90" height="100" alt="Rodrigo-yoda" align="right">
 </p>

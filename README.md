@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/raugusto96">
     <img align="center" width="500" src="rodrigo.png">
   </a>
- <img src="https://media.giphy.com/media/KGfHHJgI6iVVeEZFHV/giphy.gif" width="90" height="100" alt="Rodrigo-yoda" align="right">
+ <a href="https://github.com/raugusto96"><img src="https://media.giphy.com/media/KGfHHJgI6iVVeEZFHV/giphy.gif" width="90" height="100" alt="Rodrigo-yoda" align="right"></a>
 </p>
 <br>
 <br>
@@ -17,7 +17,7 @@
 
 ## Opa! Eu sou o Rodrigo Augusto <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-### Abstract
+### Sobre mim
 
 - 👨&zwj;💻 Editor de vídeos no **YouTube**.
 - 🌱 Estudante de Desenvolvimento Web na **Trybe**.

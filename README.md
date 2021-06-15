@@ -21,7 +21,7 @@
 
 - 👨&zwj;💻 Editor de vídeos no **YouTube**.
 - 🌱 Estudante de Desenvolvimento Web na **Trybe**.
-- 💙 Interesse: HTML, CSS, JScript, React e Java.
+- 💙 Interesse: HTML, CSS, Javascript, React e Java.
 - :video_game: Gosta de jogar League of Legends? É só chamar, podemos subir de elo juntos ou não kkkk
 
 

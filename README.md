@@ -63,8 +63,3 @@
 </p>
 
 <p align="center"> 
-
- ## Total de Visitas no perfil :detective: <br>
- </p><p align="center"> 
-   <img align="center" src="https://profile-counter.glitch.me/raugusto96/count.svg">
- </p>

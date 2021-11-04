@@ -49,7 +49,6 @@
 ## Contact :iphone:
 
 <p align="center">
-    <a href="https://www.instagram.com/roh_augusto96/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" target="_blank"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:rodrigoaugusto96@outlook.com">
         <img src="https://img.shields.io/badge/email-D14836?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:rodrigoaugusto96@outlook.com">

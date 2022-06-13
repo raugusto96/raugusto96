@@ -15,7 +15,7 @@
 </a><div style="display: inline_block"><a href="https://github.com/raugusto96">
 <p></p></a></div></div></div>
 
-## Opa! Eu sou o Rodrigo Augusto <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Opa! Eu sou o Rodrigo Augusto
 
 ### Sobre mim
 

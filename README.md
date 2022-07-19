@@ -54,8 +54,6 @@
         <img src="https://img.shields.io/badge/email-D14836?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:rodrigoaugusto96@outlook.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.youtube.com/DarkofAMVs/" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" target="_blank"></a>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/roh-augusto96/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=mailto:https://www.linkedin.com/in/roh-augusto96/">
     </a>

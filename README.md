@@ -15,7 +15,7 @@
 
 # Tech and Tools 💾
 ## Back-end 👨‍💻
-<p align="center">
+<p>
     <img src="https://img.shields.io/badge/Node-339933?logo=node.js&logoColor=ffffff" height="25">
     <img height="25" src="https://img.shields.io/badge/Press-212121?logo=express&logoColor=ffffff">
      <img height="25" src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=ffffff">
@@ -31,7 +31,7 @@
 
 ---
 ## Front-end 💻
-<p align="center">
+<p>
     <img height="25" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=ffffff">
      <img height="25" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=ffffff">
     <img height="25" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=ffffff">
@@ -44,7 +44,7 @@
 
 ---
 ## Tools 🧰
-<p align="center">
+<p>
     <img src="https://img.shields.io/badge/Slack-5C2D91?logo=slack&logoColor=ffffff" height="25">
     <img height="25" src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=ffffff">
      <img height="25" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=ffffff">
